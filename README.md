@@ -4,7 +4,7 @@ I'm from India. I really enjoy learning languages and frameworks like laravel an
 
 Skills: Laravel Livewire / Laravel / Codeigniter / JS / HTML / CSS
 
-- 🔭 I’m currently working Laravel.
+- 🔭 I’m currently working Laravel and Laravel Livewire.
 
 <h3 align="left">Connect with me:</h3>
 
@@ -32,7 +32,3 @@ Skills: Laravel Livewire / Laravel / Codeigniter / JS / HTML / CSS
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26px" height="100%"/> </a>&nbsp;
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px" height="100%"/> </a>
 </p>
-<!-- [![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejas20002&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas20002)](https://github.com/anuraghazra/github-readme-stats) -->
-
