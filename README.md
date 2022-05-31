@@ -33,4 +33,6 @@ Skills: Laravel Livewire / Laravel / Codeigniter / JS / HTML / CSS
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px" height="100%"/> </a>
 </p></br>
 
-![Tejas GitHub stats](https://github-readme-stats.vercel.app/api?username=tejas20002&show_icons=true&theme=radical)
+![Tejas GitHub stats](https://github-readme-stats.vercel.app/api?username=tejas20002&show_icons=true&theme=radical)</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas20002&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
