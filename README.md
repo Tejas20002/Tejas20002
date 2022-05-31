@@ -31,4 +31,6 @@ Skills: Laravel Livewire / Laravel / Codeigniter / JS / HTML / CSS
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="26px" height="100%"/> </a>&nbsp;
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26px" height="100%"/> </a>&nbsp;
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px" height="100%"/> </a>
-</p>
+</p></br>
+
+![Tejas GitHub stats](https://github-readme-stats.vercel.app/api?username=tejas20002&show_icons=true&theme=radical)
