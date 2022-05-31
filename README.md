@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Tejas 
+### Hi there 👋, my name is Tejas
+<!-- <img src="https://komarev.com/ghpvc/?username=tejas20002&style=flat-square&color=blue" alt=""/> -->
 
 I'm from India. I really enjoy learning languages and frameworks like laravel and Codeigniter.
 
@@ -17,7 +18,7 @@ Skills: Laravel Livewire / Laravel / Codeigniter / JS / HTML / CSS
   <a href="https://www.snapchat.com/add/tjhirani" rel="nofollow"><img alt="tjhirani | Snapchat" src="https://camo.githubusercontent.com/5d6a896c7190bccb7d3e4f94ffc1bfdbc2eedead9cf4f468c4892dddb2de0cd8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e332e302f69636f6e732f736e6170636861742e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/snapchat.svg" style="max-width: 100%;" width="22px" align="left"></a>
 </p><br/>
 
-<h3 align="left">Languages and Tools:</h3>
+### :hammer_and_wrench: Languages and Tools:
 
 <p align="left">
     <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="26px" height="100%"/> </a>&nbsp;
@@ -34,5 +35,8 @@ Skills: Laravel Livewire / Laravel / Codeigniter / JS / HTML / CSS
 </p></br>
 
 ![Tejas GitHub stats](https://github-readme-stats.vercel.app/api?username=tejas20002&show_icons=true&theme=radical)</br>
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tejas20002&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas20002&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
