@@ -6,6 +6,7 @@ I'm from India. I really enjoy learning languages and frameworks like laravel an
 Skills: Laravel Livewire / Laravel / Codeigniter / JS / HTML / CSS
 
 - 🔭 I’m currently working Laravel and Livewire
+- 🌱 I’m currently learning Kubernetes and Docker
 
 <h3 align="left">Connect with me:</h3>
 
