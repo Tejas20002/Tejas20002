@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Tejas
-<!-- <img src="https://komarev.com/ghpvc/?username=tejas20002&style=flat-square&color=blue" alt=""/> -->
 
 I'm from India. I really enjoy learning languages and frameworks like laravel and Codeigniter.
 
